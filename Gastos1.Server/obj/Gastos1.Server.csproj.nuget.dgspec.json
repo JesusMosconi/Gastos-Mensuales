@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server\\Gastos1.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj",
+        "projectName": "Gastos.BD",
+        "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj",
+        "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Repositorio\\Gastos.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Repositorio\\Gastos.Repositorio.csproj",
+        "projectName": "Gastos.Repositorio",
+        "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Repositorio\\Gastos.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj"
+              },
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj",
+        "projectName": "Gastos.Shared",
+        "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj",
+        "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server.Client\\Gastos1.Server.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server.Client\\Gastos1.Server.Client.csproj",
+        "projectName": "Gastos1.Server.Client",
+        "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server.Client\\Gastos1.Server.Client.csproj",
+        "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.8, 8.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server\\Gastos1.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server\\Gastos1.Server.csproj",
+        "projectName": "Gastos1.Server",
+        "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server\\Gastos1.Server.csproj",
+        "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.BD\\Gastos.BD.csproj"
+              },
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Repositorio\\Gastos.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Repositorio\\Gastos.Repositorio.csproj"
+              },
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos.Shared\\Gastos.Shared.csproj"
+              },
+              "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server.Client\\Gastos1.Server.Client.csproj": {
+                "projectPath": "C:\\Users\\Equipo\\Desktop\\jesus\\Programas\\Gastos1\\Gastos1.Server\\Gastos1.Server.Client\\Gastos1.Server.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
