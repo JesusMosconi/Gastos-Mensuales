@@ -1,0 +1,17 @@
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.Repositorio.deps.json
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.Repositorio.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.Repositorio.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.BD.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.Shared.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.BD.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\bin\Debug\net8.0\Gastos.Shared.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.R.565D5173.Up2Date
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\refint\Gastos.Repositorio.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\Gastos.Repositorio.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.Repositorio\obj\Debug\net8.0\ref\Gastos.Repositorio.dll

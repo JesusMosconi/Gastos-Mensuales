@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gastos.Repositorio/1.0.0": {
+        "dependencies": {
+          "Gastos.BD": "1.0.0",
+          "Gastos.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Gastos.Repositorio.dll": {}
+        }
+      },
+      "Gastos.BD/1.0.0": {
+        "dependencies": {
+          "Gastos.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Gastos.BD.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Gastos.Shared/1.0.0": {
+        "runtime": {
+          "Gastos.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gastos.Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gastos.BD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gastos.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\bin\Debug\net8.0\Gastos.BD.deps.json
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\bin\Debug\net8.0\Gastos.BD.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\bin\Debug\net8.0\Gastos.BD.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\bin\Debug\net8.0\Gastos.Shared.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\bin\Debug\net8.0\Gastos.Shared.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.csproj.Up2Date
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\refint\Gastos.BD.dll
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\Gastos.BD.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\Gastos1\Gastos.BD\obj\Debug\net8.0\ref\Gastos.BD.dll
